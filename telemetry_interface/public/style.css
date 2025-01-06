@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#telemetry-data 
+{
+    border: 10px solid #c11111;
+    padding: 20px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#con
+{
+    border: 10px solid #c11111;
+    padding: 20px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#flightsystems
+{
+    border: 10px solid #c11111;
+    padding: 20px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
